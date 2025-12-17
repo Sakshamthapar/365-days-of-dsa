@@ -1,2 +1,2 @@
-## Arrays
-LeetCode array problems solved in Java.
+## LinkedList
+LeetCode LinkedList problems solved in Java.
